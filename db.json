@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "profile": "../assets/profile-images/Ellipse -8.png",
+      "name": "Surendra ",
+      "gender": "Male",
+      "department": "HR,Engineer",
+      "salary": "450000",
+      "startdate": "16-Sep-2018",
+      "id": 1
+    },
+    {
+      "profile": "../assets/profile-images/Ellipse -3.png",
+      "name": "Omkar",
+      "gender": "Male",
+      "department": "Finance",
+      "salary": "350000",
+      "startdate": "7-Mar-2016",
+      "id": 2
+    },
+    {
+      "profile": "../assets/profile-images/Ellipse -7.png",
+      "name": "Priyanka",
+      "gender": "Female",
+      "department": "Sales,Others",
+      "salary": "400000",
+      "startdate": "2-Apr-2017",
+      "id": 3
+    },
+    {
+      "name": "Siya",
+      "profile": "../assets/profile-images/Ellipse -7.png",
+      "gender": "Female",
+      "department": "Sales,Finance",
+      "salary": "400000",
+      "startdate": "7-Mar-2017",
+      "id": 5
+    },
+    {
+      "name": "Rohit",
+      "profile": "../assets/profile-images/Ellipse -8.png",
+      "gender": "Male",
+      "department": "HR,Sales",
+      "salary": "350000",
+      "startdate": "4-Jul-2018",
+      "id": 6
+    }
+  ]
+}
